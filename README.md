@@ -11,7 +11,7 @@
 
 <br>
 
-![screenshot](https://github.com/GregSithole/gregsithole-react-portfolio/raw/master/src/assets/screenshot.png)
+<!-- ![screenshot](https://github.com/GregSithole/gregsithole-react-portfolio/raw/master/src/assets/screenshot.png) -->
 
 ## How To Use
 
@@ -19,10 +19,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/GregSithole/gregsithole-react-portfolio
+$ git clone https://github.com/AlyssonSilva0617/portfolio.git
 
 # Go into the repository
-$ cd gregsithole-react-portfolio
+$ cd portfolio
 
 # Install dependencies
 $ yarn install
