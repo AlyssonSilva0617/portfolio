@@ -1,2 +1,9 @@
-//start
-// chage this
+const startPullShark = () => {
+  return (
+    <>
+      <div></div>
+    </>
+  );
+};
+
+export default startPullShark;
