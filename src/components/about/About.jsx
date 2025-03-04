@@ -40,7 +40,7 @@ const About = () => {
               <li>JavaScript, TypeScript, HTML5, CSS3</li>
               <li>C#, ASP, .Net, DJango, SpringBoot</li>
               <li>Node, Python, ORM</li>
-              <li>React, Next, Electron, Vue, Angular</li>
+              <li>React, Next, Electron(NW), Vue, Angular</li>
               <li>RESTFul API, GraphQL</li>
               <li>Docker, AWS</li>
               <li>Postgres SQL, MongoDB, MySQL</li>
