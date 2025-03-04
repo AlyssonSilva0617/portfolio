@@ -41,7 +41,7 @@ const About = () => {
               <li>C#, ASP, .Net, DJango</li>
               <li>Node, Python, ORM</li>
               <li>React Next, Electron, Vue, Angular</li>
-              <li>REST API, GraphQL</li>
+              <li>RESTFul API, GraphQL</li>
               <li>Docker, AWS</li>
               <li>Postgres SQL, MongoDB, MySQL</li>
               <li>Tailwind,SASS, ARIA, Charts</li>
