@@ -17,7 +17,7 @@ const WorkExperience = [
         yearsActive: "Set 2019 - Apr 2022",
         information: [
             "Successfully delivered AI-driven applications that improved client operations and user engagement.",
-            "Integrated REST APIs for seamless communication between frontend and backend services, reducing data load times by 30%",
+            "Integrated REST APIs for seamless communication between frontend and backend, reducing data load times by 30%",
             "Managed and optimized cloud-based deployment using AWS, ensuring reliable and secure hosting",
         ],
     },
