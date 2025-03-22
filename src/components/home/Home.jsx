@@ -12,7 +12,7 @@ const Home = () => {
             <div className="intro">
                 <img src={Me} alt="" className='home__img' width='250' />
                 <h1 className="home__name">Alysson Medeiros</h1>
-                <span className="home__education">I'm a Senior FullStack Developer</span>
+                <span className="home__education">I'm a Senior FullStack Engineer</span>
 
                 <HeaderSocials />
 
