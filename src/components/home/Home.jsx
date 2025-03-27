@@ -11,8 +11,8 @@ const Home = () => {
         <section className="home container" id='home'>
             <div className="intro">
                 <img src={Me} alt="" className='home__img' width='250' />
-                <h1 className="home__name">Alysson Mederos</h1>
-                <span className="home__education">I'm a Senior FullStack Engineer</span>
+                <h1 className="home__name">Alysson Silva</h1>
+                <span className="home__education">I'm a Senior FullStackEngineer</span>
 
                 <HeaderSocials />
 
